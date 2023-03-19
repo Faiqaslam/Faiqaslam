@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faiq Aslam</h1>
-<h3 align="center">A passionate Software Developer from Pakistan</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiqaslam&label=Profile%20views&color=0e75b6&style=flat" alt="faiqaslam" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, React Native**
 
-- 👨‍💻 All of my projects are available at [https://faiqaslam.com](https://faiqaslam.com)
+- 👨‍💻 Portfolio [https://faiqaslam.com](https://faiqaslam.com)
 
 - 📫 How to reach me **p190082@nu.edu.pk**
 
