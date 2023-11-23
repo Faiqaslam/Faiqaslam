@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Generative AI**
 
-- 🌱 Iterest in **AutoGen, Langchain, LamaIndex **
+- 🌱 Iterest in **AutoGen, Langchain, LamaIndex**
 
 - 👨‍💻 Portfolio [https://faiqaslam.com](https://faiqaslam.com)
 
