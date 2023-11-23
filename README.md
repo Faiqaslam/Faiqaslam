@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/faiqaslm" target="blank"><img src="https://img.shields.io/twitter/follow/faiqaslm?logo=twitter&style=for-the-badge" alt="faiqaslm" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Fake Audio Detection**
+- 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- 🌱 Iterest in **AutoGen, Langchain, LamaIndex **
 
 - 👨‍💻 Portfolio [https://faiqaslam.com](https://faiqaslam.com)
 
